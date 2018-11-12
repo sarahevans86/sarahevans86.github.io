@@ -1,0 +1,39 @@
+
+body {
+  background-color: black;
+  text-align: center;
+  font-size: 40px;
+  color: black;
+}
+
+ul {
+  list-style-type: none;
+  display: inline;
+  padding: 30px
+  margin: auto;
+}
+
+h1 {
+  color: white;
+  font-size: 70px;
+}
+
+.balthazar {
+  background-color: white;
+}
+
+.hotbox {
+  background-color: white;
+}
+
+.chilternfirehouse {
+  background-color: white;
+}
+
+.brothermarcus {
+  background-color: white;
+}
+
+.theblackpenny {
+  background-color: white;
+}
